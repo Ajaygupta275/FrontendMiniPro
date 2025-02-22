@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+}
+.count{
+    font-size: 3rem;
+
+}
+button{
+    padding: 10px 16px;
+    background-color: #0ff;
+    border: 1px solid grey;
+    border-radius: 4px;
+    cursor: pointer;
+
+}
+.changeBy {
+    width: 5rem;
+    height: 2rem;
+    font-size: 1rem;
+}
